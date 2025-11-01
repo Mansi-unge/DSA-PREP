@@ -52,3 +52,15 @@ print("Area of Circle is:", circle_area)
 cylinder_area = area_of_cylinder(radius, height)
 print("Area (Volume) of Cylinder is:", cylinder_area)
 
+
+
+
+"""
+OUTPUT :
+Enter radius to get area: 3
+Radius = 3
+Enter height to get area: 5
+Height = 5
+Area of Circle is: 28.26
+Area (Volume) of Cylinder is: 141.3
+"""
